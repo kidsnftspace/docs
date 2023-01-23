@@ -11,7 +11,16 @@
 * Creation of the first NFT collection
 * Run launchpad for mint NFT collection
 
-### 2. Phase. Develop application (beta)
+### 2. Phase. Decentralized Community
+
+* Tokenomics description
+* Creation of $KDS token
+* Airdrop distribution to NFT holders, active participants
+* Create Pool Liquidity
+* Creation of DAS
+* Initiation of DAS management process
+
+### 3. Phase. Develop application (beta)
 
 * Technical documentation creation
 * Formation of the design
@@ -22,15 +31,6 @@
 * Creating instructions for usage
 * Creating Terms and Conditions
 * Selecting Charities
-
-### 3. Phase. Decentralized Community
-
-* Tokenomics description
-* Creation of $KDS token
-* Airdrop distribution to NFT holders, active participants
-* Create Pool Liquidity
-* Creation of DAS
-* Initiation of DAS management process
 
 ### 4. Phase. Develop mobile application
 
