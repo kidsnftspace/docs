@@ -9,3 +9,6 @@
 * [Team](team.md)
 * [Minting NFT collection](minting-nft-collection.md)
 * [Dictionary](dictionary.md)
+* [Important information](important-information.md)
+* [Twitter](https://twitter.com/kidsnftspace)
+* [Web-page](https://kidsnft.space/)

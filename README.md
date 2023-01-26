@@ -1,6 +1,6 @@
 ---
 description: version 1.0
-cover: .gitbook/assets/20230116_123836.jpg
+cover: .gitbook/assets/IMG_1473_t.jpg
 coverY: 0
 ---
 
