@@ -4,7 +4,7 @@ We intend to create and develop a decentralized community in order to have a dec
 
 Ownership and further development of the platform will be distributed among the members.&#x20;
 
-Owners making any changes will be community management token $KDS (Tokenomics).
+Owners making any changes will be community management token $KNS (Tokenomics).
 
 For example, proposals could be:
 
