@@ -14,7 +14,7 @@
 ### 2. Phase. Decentralized Community
 
 * Tokenomics description
-* Creation of $KDS token
+* Creation of $KNS token
 * Airdrop distribution to NFT holders, active participants
 * Create Pool Liquidity
 * Creation of DAS
