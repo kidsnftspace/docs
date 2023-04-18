@@ -2,7 +2,7 @@
 
 Minting an NFT collection is the act of creating and distributing unique digital items on a blockchain.
 
-Genesis collection will be sold in amount of 3000 pcs on Polygon blockchain
+Genesis collection will be sold
 
 NFT holders will be granted the following privileges:
 
