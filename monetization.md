@@ -1,5 +1,7 @@
 # Monetization
 
+**Profits will be generated from the sales of NFT-collectibles and from the provision of paid services.**
+
 This platform devides into 2 parts:
 
 #### 1. Free use.
@@ -16,4 +18,3 @@ This platform devides into 2 parts:
 * Holding NFT-collections expositions in the metaverses
 * Organization of sales merchant in online stores
 
-Profits will be generated from the sales of NFT-collectibles and from the provision of paid services.
